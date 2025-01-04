@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mzehnder11
-- 👀 I’m interested in WebDesign, Highdiving.
-- 🌱 I’m currently learning HTML and JavaScript.
+- 👀 I’m interested in WebDesign and Highdiving.
+- 🌱 I’m currently learning HTML and JavaScript and Adobe Photoshop.
 - 📫 I can be reached via malik.zehnder1@gmail.com.
 
 <!---
