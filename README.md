@@ -3,7 +3,7 @@
 - 👀 I’m interested in WebDesign and Highdiving.
 - 🌱 I am currently learning HTML and JavaScript and a little Python.
 - 📫 I can be reached via [malik.zehnder1@gmail.com](mailto:malik.zehnder1@gmail.com).
-- 🌎 You can visit my website [malikzehnder.ch](https://malikzehnder.ch).
+- 🌎 You can visit my website [webcore-media.com](https://webcore-media.com).
 
 <!---
 mzehnder11/mzehnder11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
