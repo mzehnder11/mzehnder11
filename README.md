@@ -1,6 +1,6 @@
 - 👋 I’m @mzehnder11
 - 📌 I’m from Solothurn, Switzerland.
-- 👀 I’m interested in WebDesign and Highdiving.
+- 👀 I’m interested in WebDesign, Programming and Sports.
 - 🌱 I am currently learning HTML and JavaScript and a little Python.
 - 📫 I can be reached via [malik.zehnder1@gmail.com](mailto:malik.zehnder1@gmail.com).
 - 🌎 You can visit my website [webcore-media.com](https://webcore-media.com).
